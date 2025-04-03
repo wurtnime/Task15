@@ -1,0 +1,14 @@
+C:\Users\Segor\Desktop\Masturbek\Masturbek\bin\Debug\net8.0\Masturbek.exe
+C:\Users\Segor\Desktop\Masturbek\Masturbek\bin\Debug\net8.0\Masturbek.deps.json
+C:\Users\Segor\Desktop\Masturbek\Masturbek\bin\Debug\net8.0\Masturbek.runtimeconfig.json
+C:\Users\Segor\Desktop\Masturbek\Masturbek\bin\Debug\net8.0\Masturbek.dll
+C:\Users\Segor\Desktop\Masturbek\Masturbek\bin\Debug\net8.0\Masturbek.pdb
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.AssemblyInfo.cs
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.dll
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\refint\Masturbek.dll
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.pdb
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\Masturbek.genruntimeconfig.cache
+C:\Users\Segor\Desktop\Masturbek\Masturbek\obj\Debug\net8.0\ref\Masturbek.dll
